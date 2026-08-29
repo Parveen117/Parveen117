@@ -8,7 +8,8 @@ Every result below is **preregistered before data, SHA-256 pinned, and independe
 
 | Repository | What it certifies | Headline result |
 | --- | --- | --- |
-| [Publications](https://github.com/Parveen117/Publications) | Papers + **cross-platform quantum verdicts (AZQ1)** | On a real 156-qubit IBM Heron QPU: auditor refused an uncorrected GHZ state (z=+40.8), certified the error-suppressed one (z=-2.8), cut the corrupted circuit both times — same unchanged contract |
+| [Publications](https://github.com/Parveen117/Publications) | Papers + **cross-platform quantum verdicts (AZQ1/AZQ2)** | Real 156-qubit IBM Heron QPU: auditor refused an uncorrected GHZ state (z=+40.8), certified the error-suppressed one (z=-2.8), cut corrupted circuits every time; concordance with fault localization z=+12.2 |
+| [Quantum-Classical-public](https://github.com/Parveen117/Quantum-Classical-public) | Multi-ledger operator-memory benchmark | **CROSS_BACKEND_REPLICATION certified on three real IBM QPUs** (ibm_fez, ibm_kingston, ibm_marrakesh — 3/3 runs, all declared gates) |
 | [Energy](https://github.com/Parveen117/Energy) | Battery health falsification ladder | Preregistered aging-trend certification on six CALCE cells, combined **p = 3.1e-11**; Ed25519 independent-evaluator harness included |
 | [Thermodynamics-Reproducibility](https://github.com/Parveen117/Thermodynamics-Reproducibility) | Rank-2 response theorem on real thermodynamic data | T01 campaign — the audit discipline every sibling repo follows |
 | [Bio-tech](https://github.com/Parveen117/Bio-tech) | Calorimetry / bio response charts | B01/B02 with cut-square cell-vs-instrument localization |
