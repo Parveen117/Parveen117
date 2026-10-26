@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "repository": "Parveen117/Parveen117",
+  "recorded_at_utc": "2026-10-26T14:24:22.218045+00:00",
+  "scope": "Default-branch content immediately before the 2026-10-26 provenance update.",
+  "baseline_branch": "main",
+  "baseline_commit": "665933059b55c7975f39e4e5df48f6c74ac4b604",
+  "baseline_tree": "7b7d0fad703c52970ef94546ea055f1b832f0749",
+  "baseline_commit_url": "https://github.com/Parveen117/Parveen117/commit/665933059b55c7975f39e4e5df48f6c74ac4b604",
+  "git_object_hash_algorithm": "sha1",
+  "content_hash_algorithm": "sha256",
+  "limits": [
+    "Git timestamps are metadata, not independent trusted timestamps.",
+    "This manifest excludes its own later provenance update.",
+    "A prior DOI covers its archived version, not later commits.",
+    "Hashes establish content identity, not scientific validity, authorship adjudication, or legal priority."
+  ],
+  "files": [
+    {
+      "path": "README.md",
+      "mode": "100644",
+      "git_object_type": "blob",
+      "git_object_sha1": "846dab1b034049e05bcf3668372b3d00186b3fdd",
+      "size_bytes": 2236,
+      "sha256": "6b48b2db086e8e93e6700f3de1e9fb79ec575ef621275aa98b90193d94a8ab2b"
+    }
+  ],
+  "published_releases": [],
+  "zenodo_archive": null
+}

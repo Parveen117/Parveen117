@@ -1,5 +1,8 @@
 # Monty Dabas — Certified Research Index
 
+> **Research record:** [Dated snapshot, content hashes and archive links](RESEARCH_PROVENANCE.md) · [Canonical repository governance](GOVERNANCE.md). Cite the exact version used.
+
+
 Founder, **Celextrix Pvt Ltd** (Delhi) · ORCID [0009-0005-6948-209X](https://orcid.org/0009-0005-6948-209X) · [arXiv:2603.20773](https://arxiv.org/abs/2603.20773) · 3 PCT filings
 
 Every result below is **preregistered before data, SHA-256 pinned, and independently reproducible** — including the failed predictions, which are published with mechanisms named.
